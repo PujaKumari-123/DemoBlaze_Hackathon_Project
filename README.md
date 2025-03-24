@@ -7,6 +7,8 @@ This project focuses on **manual testing** for the **DemoBlaze** web application
 - **Manual Testing**
 - **XMind for Test Planning**
 - **Excel for Test Scenarios & Test Cases**
+- **Bug Report**
+- **Test Summary Report**
 
 ## 🚀 Features
 ✔️ Creating a **Test Plan** for structured testing  
